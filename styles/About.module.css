@@ -1,0 +1,30 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.content p {
+    text-align: center;
+}
+.likeboard {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.logo {
+    margin: 2rem;
+    padding: 1rem;
+    border-radius: 10%;
+    box-shadow: none;
+    transition: 500ms;
+}
+
+.logo img {
+    height: 6.5rem;
+}
+
+.logo:hover {
+    box-shadow: 1px 2px 3px #777;
+}
