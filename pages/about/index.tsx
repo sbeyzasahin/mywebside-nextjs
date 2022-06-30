@@ -20,7 +20,7 @@ const Index = () => {
     return (
         <div className={style.content}>
             <h1>About</h1>
-            <p> Hi! I am Sümeyye Beyza Yıldız. I am Front-end Developer. I usually interest Javascript Technologies. I was born on 1994. I live in Istanbul, Turkey. I graduated as Software Engineer at Karadeniz Technical University in 2021. I worked as a Front-end Developer from 2018 to 2022.</p>
+            <p> Hi! I am Sumeyye Beyza Yildiz. I usually interest Javascript Technologies. I live in Istanbul, Turkiye. I graduated as Software Engineer at Karadeniz Technical University in 2021. I am working as a Front-end Developer since 2018.</p>
             <p> I am on my own way, starting from the concept of lifelong learning. </p>
             <div className={style.likeboard}>
                 {

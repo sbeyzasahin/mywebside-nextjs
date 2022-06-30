@@ -5,7 +5,7 @@ export default function Index() {
         <div className={style.content}>
             <p>
                 <img className={style['image-mail']} src="/google-gmail.svg" />
-                 sumeyyebeyzayildiz@gmail.com
+                <a href="mailto: sumeyyebeyzayildiz@gmail.com">sumeyyebeyzayildiz@gmail.com</a>
             </p>
         </div>
     )
